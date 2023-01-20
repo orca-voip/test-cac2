@@ -26,4 +26,4 @@ content of the lecture.
 
 Students who collaborated to this lecture:
 
-- Nabil Tharwat nabil@example
+- Nabil Tharwat nabil.tharwat@example.com
