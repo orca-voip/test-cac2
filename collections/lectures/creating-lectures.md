@@ -23,3 +23,7 @@ the description out or empty but make sure the title is sufficient to describe t
 content of the lecture.
 
 > Without a title the listing of lectures will be empty.
+
+Students who collaborated to this lecture:
+
+- Nabil Tharwat nabil@example
